@@ -21,3 +21,20 @@ export const calculateIronScore = (product) => {
     return -5
   }
 }
+
+export const calculateFatScore = (product) => {
+  const fatContent = product.per100gFat
+  if (fatContent <= 3) {
+    return 0
+  } else if (fatContent > 3 && fatContent <= 17.5) {
+    return -5
+  } else {
+    return -10
+  }
+}
+
+
+// module.exports = {
+//   calculateSugarScore: calculateSugarScore,
+//   calculateIronScore: calculateIronScore
+// }
