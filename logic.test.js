@@ -1,3 +1,4 @@
+'use strict'
 import * as logic from './logic'
 
 describe('sugar scores', function(){
