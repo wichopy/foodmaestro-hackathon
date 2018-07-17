@@ -44,3 +44,34 @@ export const calculateSaltScore = (product) => {
     }
   }
 }
+
+// This function is for accounting for Iron in the product score
+export const calculateIronScore = (product) => {
+  const ironContent = product.per100gIron
+  if (ironContent >= 4.4) {
+    return 0
+  } else if (ironContent < 4.4 && ironContent >= 2.2) {
+    return -2.5
+  } else {
+    return -5
+  }
+}
+
+// This function is for accounting for Fat in the product score
+export const calculateFatScore = (product) => {
+  const fatContent = product.per100gFat
+  if (fatContent <= 3) {
+    return 0
+  } else if (fatContent > 3 && fatContent <= 17.5) {
+    return -5
+  } else {
+    return -10
+  }
+}
+
+
+// module.exports = {
+//   calculateSugarScore: calculateSugarScore,
+//   calculateIronScore: calculateIronScore
+// }
+
