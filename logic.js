@@ -1,6 +1,6 @@
 
 
-export const calculateSugarScore = (product) => {
+const calculateSugarScore = (product) => {
   const sugarContent = product.per100gSugar
   if (sugarContent <= 5) {
     return 0
@@ -9,4 +9,8 @@ export const calculateSugarScore = (product) => {
   } else {
     return -50
   }
+}
+
+module.exports = {
+  calculateSugarScore: calculateSugarScore
 }

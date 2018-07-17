@@ -5,7 +5,7 @@
 
 const express = require('express');
 const app = express();
-
+var logic = require('./logic')
 // The Object below contains s
 const knex = require('knex')({
     client: 'mssql',
@@ -30,8 +30,8 @@ app.get('/', function(req, res) {
     knex.select('*').from('product').join('productnutrition', function() {
         this.on('productnutrition.ProductID', '=', 'product.ProductID')
         }).then(function(rows) {
-            console.log(rows);
-    });
+            console.log(100 - logic.calculateSugarScore(rows[0]))
+        });
 });
 
 
