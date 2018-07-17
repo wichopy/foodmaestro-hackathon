@@ -1,0 +1,122 @@
+[
+  {
+    "ProductID": "26955",
+    "ProductGUID": "176b837c-5850-43f0-aaad-6b5e0aa93fdc",
+    "BarcodeNumber": "5060145250055",
+    "Name": "Harvest Cheweee 9 White Choc Chip Scrummy Cereal Bars 198g"
+  },
+  {
+    "ProductID": "45472",
+    "ProductGUID": "881a1ddc-6b02-4e75-9fcf-8a3d4222a934",
+    "BarcodeNumber": "5060044771200",
+    "Name": "Big Oz 6 Organic Breakfast Cereals Variety Pack 210g"
+  },
+  {
+    "ProductID": "113221",
+    "ProductGUID": "9720ea52-b777-437f-897b-a3f7474c31ef",
+    "BarcodeNumber": "5018357011070",
+    "Name": "Dorset Cereals Oat Granola 85g"
+  },
+  {
+    "ProductID": "116330",
+    "ProductGUID": "17aa40e3-19a8-4b3a-9f09-4c3545242d19",
+    "BarcodeNumber": "4771395190831",
+    "Name": "Blissfull ChocBalls Crunchy Chocolate Cereal Balls 375g"
+  },
+  {
+    "ProductID": "116694",
+    "ProductGUID": "67d27b28-0fa9-427d-955e-5588044151af",
+    "BarcodeNumber": "0884912129512",
+    "Name": "Post Cocoa Pebbles Sweetened Rice Cereal with Real Cocoa 311g"
+  },
+  {
+    "ProductID": "132005",
+    "ProductGUID": "585927ca-1fd6-4fb2-8f0a-dc54d3638e48",
+    "BarcodeNumber": "0720516022258",
+    "Name": "Orgran Health & Nutrition Gluten Free Itsy Bitsy Cocoa O's 65% Whoelgrain Cereal with Psyllium 300g"
+  },
+  {
+    "ProductID": "135355",
+    "ProductGUID": "d461dd94-5038-4f2a-89f0-f168706933b1",
+    "BarcodeNumber": "0016000275690",
+    "Name": "General Mills Lucky Charms Frosted Toasted Oat Cereal with Marshmallows 453g"
+  },
+  {
+    "ProductID": "135978",
+    "ProductGUID": "6903c648-d5b5-4137-867d-29300a4ee0ca",
+    "BarcodeNumber": "5013803991838",
+    "Name": "Eat Natural with... Brazils and Sultanas Crisp Crunchy Toasted Breakfast Cereal 500g"
+  },
+  {
+    "ProductID": "151337",
+    "ProductGUID": "f1a97658-26ea-4ce3-a1e0-13ab5c298c63",
+    "BarcodeNumber": "5011476100205",
+    "Name": "Nestlé Original Shreddies Cereal 500g"
+  },
+  {
+    "ProductID": "161454",
+    "ProductGUID": "8c2ddb4f-2859-4fad-ba4a-ecba36ed5a15",
+    "BarcodeNumber": "0042400218388",
+    "Name": "Malt O Meal S'Mores Cereal 340g"
+  },
+  {
+    "ProductID": "162218",
+    "ProductGUID": "66ecd7e7-938b-4830-909f-76760ec6e3e8",
+    "BarcodeNumber": "5050083392801",
+    "Name": "Kellogg's Coco Pops Cereal 35g"
+  },
+  {
+    "ProductID": "176752",
+    "ProductGUID": "9a39693b-e385-4d2a-a257-28abfb403b8b",
+    "BarcodeNumber": "5054781542926",
+    "Name": "Asda Breakfast Biscuits Milk & Cereals 300g"
+  },
+  {
+    "ProductID": "183696",
+    "ProductGUID": "25bb5dd8-9f65-46e7-b09b-4ba010cd742c",
+    "BarcodeNumber": "5390362300166",
+    "Name": "Rebelicious Cerealy Tasty Cornflakes Gluten Free Cereal 250g"
+  },
+  {
+    "ProductID": "191005",
+    "ProductGUID": "c85f6359-c9d6-4bc1-9bee-30890d56b296",
+    "BarcodeNumber": "5010029204506",
+    "Name": "Weetabix Malt Crunchies Wheat Cereal 8kg"
+  },
+  {
+    "ProductID": "201088",
+    "ProductGUID": "c7359208-9ec0-4fec-8ffa-d627ca749f3b",
+    "BarcodeNumber": "5060396510052",
+    "Name": "Beloved Pumpkin & Sunflower Seed Date Cereal Bars 4 x 35g (140g)"
+  },
+  {
+    "ProductID": "202785",
+    "ProductGUID": "ec4ca136-c13f-4492-af11-1de12c184ada",
+    "BarcodeNumber": "5060213962248",
+    "Name": "Boka Apple Cinnamon Cereal Bars 4 x 30g"
+  },
+  {
+    "ProductID": "203263",
+    "ProductGUID": "6d7e637f-c887-4dfa-811d-6981fe77366a",
+    "BarcodeNumber": "7613031356225",
+    "Name": "NESTLE ALMOND OATS & MORE Cereal 425g Box"
+  },
+  {
+    "ProductID": "205515",
+    "ProductGUID": "5465742a-e759-430c-abb5-6abcc7c63cfc",
+    "BarcodeNumber": "5000108028697",
+    "Name": "Quaker Oat Crisp Cereal 375g"
+  },
+  {
+    "ProductID": "210128",
+    "ProductGUID": "2b0f75fb-83fe-49cd-bbc8-48773a4daea3",
+    "BarcodeNumber": "9004617067242",
+    "Name": "Verival Organic Blueberry & Apple Granola Cereal 325g"
+  },
+  {
+    "ProductID": "219430",
+    "ProductGUID": "4ddab117-b6f1-4ff4-9cbe-274f13df3650",
+    "BarcodeNumber": "5011766777995",
+    "Name": "FREEE by Doves Farm Organic Cereal Flakes 375g"
+  }
+]
