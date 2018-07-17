@@ -20,19 +20,25 @@ const knex = require('knex')({
     }
 });
 
-app.get('/', function(req, res) {
-    // knex('product')
-    //     .join('productnutrition', 'product.ProductGUID', '=', 'productnutrition.ProductAttributeGUID')
-    //     .select('*').then((rows) => {
-    //             console.log();
-    //         });
+function productAndScore(ProductName, score) {
+    this.ProductName = ProductName;
+    this.score = score;
+} 
+
+app.get('/scores', function(req, res) {
+    const productsScore = [];
 
     knex.select('*').from('product').join('productnutrition', function() {
         this.on('productnutrition.ProductID', '=', 'product.ProductID')
         }).then(function(rows) {
-            console.log(rows[0])
-            const score = (100 + logic.calculateSugarScore(rows[0]))
-            res.json({ name: rows[0].Name , score: score })
+            for (let row of rows) {
+                const score = (100 + logic.calculateFatScore(row))
+                productsScore.push({
+                    ProductName: row.Name,
+                    score: score 
+                });
+            }            
+           res.json(productsScore)
         });
 });
 
