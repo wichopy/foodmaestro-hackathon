@@ -20,11 +20,6 @@ const knex = require('knex')({
     }
 });
 
-function productAndScore(ProductName, score) {
-    this.ProductName = ProductName;
-    this.score = score;
-} 
-
 app.get('/scores', function(req, res) {
     const productsScore = [];
 
@@ -32,12 +27,16 @@ app.get('/scores', function(req, res) {
         this.on('productnutrition.ProductID', '=', 'product.ProductID')
         }).then(function(rows) {
             for (let row of rows) {
-                const score = (100 + logic.calculateFatScore(row))
+                const score = (100 + logic.calculateFatScore(row) +
+                logic.calculateIronScore(row) +
+                logic.calculateSugarScore(row) +
+                logic.calculateFibreScore(row) +
+                logic.calculateSaltScore(row))
                 productsScore.push({
                     ProductName: row.Name,
-                    score: score 
+                    score: score
                 });
-            }            
+            }
            res.json(productsScore)
         });
 });
