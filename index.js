@@ -30,7 +30,9 @@ app.get('/', function(req, res) {
     knex.select('*').from('product').join('productnutrition', function() {
         this.on('productnutrition.ProductID', '=', 'product.ProductID')
         }).then(function(rows) {
-            console.log(100 + logic.calculateSugarScore(rows[0]))
+            console.log(rows[0])
+            const score = (100 + logic.calculateSugarScore(rows[0]))
+            res.json({ name: rows[0].Name , score: score })
         });
 });
 
