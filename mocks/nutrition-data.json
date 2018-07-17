@@ -1,0 +1,202 @@
+[
+  {
+    "ProductAttributeID": "2",
+    "ProductAttributeGUID": "83401134-bbd3-4747-9fd9-0a9f8735a5de",
+    "ProductID": "26955",
+    "per100gFat": "14.00",
+    "per100gSalt": null,
+    "per100gSugar": "27.50",
+    "per100gFibre": "3.50",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "3",
+    "ProductAttributeGUID": "8ca10dc4-01f7-4d71-9b83-89bc90eb182e",
+    "ProductID": "45472",
+    "per100gFat": null,
+    "per100gSalt": null,
+    "per100gSugar": null,
+    "per100gFibre": null,
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "4",
+    "ProductAttributeGUID": "7c430799-ef97-4065-8f9c-5558511422e8",
+    "ProductID": "113221",
+    "per100gFat": "17.00",
+    "per100gSalt": "0.20",
+    "per100gSugar": "15.00",
+    "per100gFibre": "7.40",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "5",
+    "ProductAttributeGUID": "eea83269-9eec-456e-a6a8-616a0993dbd7",
+    "ProductID": "116330",
+    "per100gFat": "3.90",
+    "per100gSalt": "0.80",
+    "per100gSugar": "32.10",
+    "per100gFibre": null,
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "6",
+    "ProductAttributeGUID": "2770760a-4457-4cda-a191-d06fbab26f2d",
+    "ProductID": "116694",
+    "per100gFat": "3.40",
+    "per100gSalt": "1.50",
+    "per100gSugar": "34.50",
+    "per100gFibre": null,
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "7",
+    "ProductAttributeGUID": "cf275512-b4ef-4de3-8bc6-90e83b25b88e",
+    "ProductID": "132005",
+    "per100gFat": "2.20",
+    "per100gSalt": "0.80",
+    "per100gSugar": "20.80",
+    "per100gFibre": "3.40",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "8",
+    "ProductAttributeGUID": "30416941-464b-4fc9-ae0a-822c765ea97a",
+    "ProductID": "135355",
+    "per100gFat": "3.70",
+    "per100gSalt": "1.60",
+    "per100gSugar": "37.00",
+    "per100gFibre": "7.40",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "9",
+    "ProductAttributeGUID": "faf5de6b-be77-4ed0-83ec-6f34483ba2cf",
+    "ProductID": "135978",
+    "per100gFat": "15.40",
+    "per100gSalt": "0.04",
+    "per100gSugar": "21.40",
+    "per100gFibre": "6.80",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "10",
+    "ProductAttributeGUID": "28e828ff-f7f9-4b39-a73b-4ab82241ee4c",
+    "ProductID": "151337",
+    "per100gFat": "1.70",
+    "per100gSalt": "0.71",
+    "per100gSugar": "15.00",
+    "per100gFibre": "12.00",
+    "per100gIron": "7.50"
+  },
+  {
+    "ProductAttributeID": "11",
+    "ProductAttributeGUID": "d3f7bba6-d490-4622-95da-bcbeb226bb50",
+    "ProductID": "161454",
+    "per100gFat": "8.30",
+    "per100gSalt": "1.70",
+    "per100gSugar": "40.00",
+    "per100gFibre": "3.30",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "12",
+    "ProductAttributeGUID": "f5b99856-eb49-467c-aff0-95edbb05585f",
+    "ProductID": "162218",
+    "per100gFat": "2.50",
+    "per100gSalt": "0.75",
+    "per100gSugar": "35.00",
+    "per100gFibre": "2.00",
+    "per100gIron": "8.00"
+  },
+  {
+    "ProductAttributeID": "13",
+    "ProductAttributeGUID": "8b67b2c7-3e12-46c7-b814-525b75d2568c",
+    "ProductID": "176752",
+    "per100gFat": "16.00",
+    "per100gSalt": "0.57",
+    "per100gSugar": "19.00",
+    "per100gFibre": "4.40",
+    "per100gIron": "18.00"
+  },
+  {
+    "ProductAttributeID": "14",
+    "ProductAttributeGUID": "11aee9ae-105a-4f9f-8359-ada58071a213",
+    "ProductID": "183696",
+    "per100gFat": "1.50",
+    "per100gSalt": null,
+    "per100gSugar": "7.00",
+    "per100gFibre": "4.00",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "15",
+    "ProductAttributeGUID": "2edd041a-55e4-4454-b955-a84d3d675316",
+    "ProductID": "191005",
+    "per100gFat": null,
+    "per100gSalt": null,
+    "per100gSugar": null,
+    "per100gFibre": null,
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "16",
+    "ProductAttributeGUID": "cf3068c5-397c-4f14-a368-fddf04e11303",
+    "ProductID": "201088",
+    "per100gFat": "3.80",
+    "per100gSalt": "0.10",
+    "per100gSugar": "29.00",
+    "per100gFibre": "9.70",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "17",
+    "ProductAttributeGUID": "936c72e6-88d4-485d-b0df-3069204e1d94",
+    "ProductID": "202785",
+    "per100gFat": "2.50",
+    "per100gSalt": "0.23",
+    "per100gSugar": "4.70",
+    "per100gFibre": "19.00",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "18",
+    "ProductAttributeGUID": "1854f398-1c5b-46c6-88bb-8ff7a0023b73",
+    "ProductID": "203263",
+    "per100gFat": "8.80",
+    "per100gSalt": "0.66",
+    "per100gSugar": "25.00",
+    "per100gFibre": "7.00",
+    "per100gIron": "9.50"
+  },
+  {
+    "ProductAttributeID": "19",
+    "ProductAttributeGUID": "407cc8df-eb57-4517-8143-8e639cc1d4c0",
+    "ProductID": "205515",
+    "per100gFat": "6.50",
+    "per100gSalt": "0.84",
+    "per100gSugar": "10.00",
+    "per100gFibre": "15.00",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "20",
+    "ProductAttributeGUID": "8e8b6dba-99d3-4b52-8470-9a4061cbc598",
+    "ProductID": "210128",
+    "per100gFat": "13.00",
+    "per100gSalt": "0.18",
+    "per100gSugar": "22.00",
+    "per100gFibre": "10.00",
+    "per100gIron": null
+  },
+  {
+    "ProductAttributeID": "21",
+    "ProductAttributeGUID": "74f5420e-5a43-4dce-be46-cbf353ffd95f",
+    "ProductID": "219430",
+    "per100gFat": "2.70",
+    "per100gSalt": "0.61",
+    "per100gSugar": "12.70",
+    "per100gFibre": "7.80",
+    "per100gIron": null
+  }
+]
